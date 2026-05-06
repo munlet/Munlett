@@ -22,6 +22,6 @@
 <p>· · · · ·</p>
 
 <!-- Fancy Button / Badge -->
-<img src="https://img.shields.io/badge/データ-599-ff4d4d?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ffcc?style=for-the-badge&logo=signal&logoColor=black"/>
 
 </div>
