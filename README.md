@@ -6,12 +6,12 @@
 <br><br>
 
 <!-- Neon Title -->
-<h2>🇱​/​🇳​-​🇪​​🇴​​🇳​​🇦​ ★ 🇲​​🇺​​🇳​​🇱​​🇪​​🇹</h2>
+<h2>🇱​/​🇳​-​🇪​​🇴​​🇳​​🇦​. 🇲​​🇺​​🇳​​🇱​​🇪​​🇹</h2>
 
-<p><i>id / eng • 18 • ENTJ</i></p>
+<p><i>id / eng | 18+ | ENTJ</i></p>
 
 <!-- Typing Neon Effect -->
-<img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&center=true&vCenter=true&lines=NEON+PROFILE;WELCOME+TO+MY+WORLD;STAY+AWHILE+⚡"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=ff00ff&center=true&vCenter=true&pause=1000&speed=40&lines=i+wish+we+could+go+to+the+moon+together..;maybe+in+another+life."/>
 
 <br><br>
 
@@ -38,11 +38,10 @@ Feel free to talk with me ✦
 <!-- Neon Badges -->
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00ffff?style=for-the-badge&logo=signal&logoColor=black"/>
 <img src="https://img.shields.io/badge/SERVER-ID-39ff14?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/USER-N30N-ff00ff?style=for-the-badge"/>
 
 <br><br>
 
 <!-- Footer Glow -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,50:0fffc1,100:ff00ff&height=120&section=footer"/>
 
 </div>
