@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Image -->
-<img src="<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/0ebf54a0-4b8a-4ea0-b6f7-ff0733eb8ee2" />
-" width="300"/>
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/0ebf54a0-4b8a-4ea0-b6f7-ff0733eb8ee2" />
+
 
 <br><br>
 
 <!-- Username / Title -->
-<a href="#">
-  <b>carrd ★ ata</b>
+<a href="https://www.instagram.com/munletsesat/">
+  <b>Instagram</b>
 </a>
 
 <br>
