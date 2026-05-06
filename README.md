@@ -22,6 +22,7 @@
 <p>· · · · ·</p>
 
 <!-- Fancy Button / Badge -->
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ffcc?style=for-the-badge&logo=signal&logoColor=black"/>
+<img src="https://img.shields.io/badge/LEVEL-10-00ffff?style=for-the-badge&logo=gamepad&logoColor=black"/>
+
 
 </div>
