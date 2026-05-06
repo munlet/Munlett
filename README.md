@@ -8,7 +8,7 @@
 
 <!-- Username / Title -->
 <a href="https://www.instagram.com/munletsesat/">
-  <b>Instagram</b>
+  <b>Instagram ★ </b>
 </a>
 
 <br>
