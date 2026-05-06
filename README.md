@@ -13,7 +13,8 @@
 <br>
 
 ## ​🇱​/​🇳​-​🇪​​🇴​​🇳​​🇦​ ​🇲​​🇺​​🇳​​🇱​​🇪​​🇹
-### ɪɴᴅᴏɴᴇꜱɪᴀɴ | 18 | ᴇɴᴛᴊ
+### ɪd/eng | 18 | ᴇɴᴛᴊ
+<P>Mainly active on ID server Above harbor. Usually using name Munlet, barely active on Regiment but still. feel free to talk with me.</P>
 
 
 <br>
